@@ -20,7 +20,7 @@ def cell_compo_table(adata, cluster, condition, xlabel='cell cluster',
     )
     return(contingency_table)
 
-def top_marker_as_xlsx(adata, key_rank_genes, key_groups, output_file):
+def top_marker_as_csv(adata, key_rank_genes, key_groups, output_file):
     
     print(adata.uns[key_rank_genes].keys())
     dict_genes = adata.uns[key_rank_genes].copy()
