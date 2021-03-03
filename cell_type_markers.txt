@@ -1,0 +1,479 @@
+B-cells	Bank1
+B-cells	Bcl11a
+B-cells	Bcl11b
+B-cells	Cd19
+B-cells	Cd22
+B-cells	Cd37
+B-cells	Cd79a
+B-cells	Cd79b
+B-cells	Ebf1
+B-cells	Herpud1
+B-cells	Igha
+B-cells	Ighd
+B-cells	Ighm
+B-cells	Igkc
+B-cells	Iglc2
+B-cells	Iglc3
+B-cells	Jchain
+B-cells	Mef2c
+B-cells	Mzb1
+B-cells	Pax5
+B-cells	Ralgps2
+B-cells	Vpreb3
+B-cells	Hfe
+B-cells	Wdfy4
+Endothelial cells	Adgrf5
+Endothelial cells	Aqp1
+Endothelial cells	Bfnl9
+Endothelial cells	Bmp2
+Endothelial cells	Bng
+Endothelial cells	Calm2
+Endothelial cells	Col4a1
+Endothelial cells	Col4a2
+Endothelial cells	Cdkn1a
+Endothelial cells	Cldn5
+Endothelial cells	Clec14a
+Endothelial cells	Clec4g
+Endothelial cells	Col4a1
+Endothelial cells	Dab2
+Endothelial cells	Dnase1l3
+Endothelial cells	Egfl7
+Endothelial cells	Ehd3
+Endothelial cells	Eng
+Endothelial cells	Epas1
+Endothelial cells	F8
+Endothelial cells	Fabp4
+Endothelial cells	Fcgr2b
+Endothelial cells	Flt1
+Endothelial cells	Gja4
+Endothelial cells	Gng11
+Endothelial cells	Gpihbp1
+Endothelial cells	Gpr182
+Endothelial cells	Igfbp4
+Endothelial cells	Igfbp7
+Endothelial cells	Il6st
+Endothelial cells	Kdr
+Endothelial cells	Lifr
+Endothelial cells	Ltbp4
+Endothelial cells	Maf
+Endothelial cells	Meis2
+Endothelial cells	Mylip
+Endothelial cells	Nrp1
+Endothelial cells	Oit3
+Endothelial cells	Pbx1
+Endothelial cells	Plpp3
+Endothelial cells	Plxnd1
+Endothelial cells	Ptn
+Endothelial cells	Ptprb
+Endothelial cells	Sema6a
+Endothelial cells	Sox17
+Endothelial cells	Sparc
+Endothelial cells	Stab2
+Endothelial cells	Timp3
+Endothelial cells	Tspan7
+Endothelial cells	Vwf
+Epcam+ epithelial cells	Epcam
+Epcam+ epithelial cells	Id3
+Hepatobiliary cells	Wwc1
+Hepatobiliary cells	Abcc2
+Hepatobiliary cells	Ces3a
+Hepatobiliary cells	Krt14
+Hepatobiliary cells	Krt19
+Hepatobiliary cells	Sptbn1
+Hepatobiliary cells	Krt9
+Hepatobiliary cells	Krt7
+Hepatobiliary cells	Hnf1b
+Hepatobiliary cells	Mki67
+Hepatobiliary cells	Sox9
+Hepatobiliary cells	Sox4
+Hepatobiliary cells	Erbb2
+Hepatobiliary cells	Erbb3
+Hepatobiliary cells	Spp1
+Hepatobiliary cells	Fgfr2
+Hepatobiliary cells	Fgfr3
+Hepatobiliary cells	Sorl1
+Hepatobiliary cells	Cftr
+Hepatobiliary cells	Pkd2
+Hepatobiliary cells	Pkhd1l1
+Hepatobiliary cells	Lrp2
+Hepatobiliary cells	Cdh11
+Hepatobiliary cells	Igfbp5
+Hepatobiliary cells	Wt1
+Hepatobiliary cells	Igfbp6
+Hepatobiliary cells	Wnt2b
+Hepatobiliary cells	Bmp4
+Hepatobiliary cells	Sulf2
+Hepatobiliary cells	Gas1
+Hepatobiliary cells	Gpc3
+Hepatobiliary cells	Vim
+Hepatobiliary cells	Fgf1
+Hepatobiliary cells	Onecut1
+Hepatobiliary cells	Klra2
+Hepatobiliary cells	Ccl5
+Hepatobiliary cells	Pla2g7
+Hepatobiliary cells	Clec12a
+Hepatobiliary cells	Itgal
+Hepatobiliary cells	Folr2
+Hepatobiliary cells	Cybb
+Hepatobiliary cells	Cd38
+Hepatobiliary cells	Cd117
+Hepatobiliary cells	Cd133
+Hepatobiliary cells	Dlk1
+Hepatobiliary cells	Slc22a3
+Hepatobiliary cells	Pou5f1
+Hepatobiliary cells	Cd34
+Hepatobiliary cells	Tpm2
+Hepatobiliary cells	Ace2
+Hepatobiliary cells	Icam1
+Hepatobiliary cells	Onecut3
+Hepatobiliary cells	Afp
+Hepatobiliary cells	Fgg
+Hepatobiliary cells	Agt
+Hepatobiliary cells	Lgr5
+Hepatobiliary cells	Tbx3
+Hepatobiliary cells	Lin28b
+Hepatocytes	Cyp27a1
+Hepatocytes	Ppara
+Hepatocytes	Pck1
+Hepatocytes	Fosl1
+Hepatocytes	Eppk1
+Hepatocytes	Ucp2
+Hepatocytes	Gck
+Hepatocytes	Lrp5
+Hepatocytes	Slc10a1
+Hepatocytes	Nos2
+Hepatocytes	Atp7b
+Hepatocytes	Gjb2
+Hepatocytes	Fgfr4
+Hepatocytes	Prox1
+Hepatocytes	Crp
+Hepatocytes	Slc2a2
+Hepatocytes	Tfr2
+Hepatocytes	Kif13b
+Hepatocytes	Lipc
+Hepatocytes	Vdr
+Hepatocytes	Asgr1
+Hepatocytes	Arg1
+Hepatocytes	G6pc
+Hepatocytes	Otc
+Hepatocytes	Ugt1a1
+Hepatocytes	Zhx2
+Hepatocytes	Foxa1
+Hepatocytes	Cyp7a1
+Hepatocytes	Cyp2e1
+Hepatocytes	Cyp1a2
+Hepatocytes	Ahr
+Hepatocytes	Cyp1a1
+Hepatocytes	Nr1i3
+Hepatocytes	Cps1
+Hepatocytes	Gls2
+Hepatocytes	Fcna
+Hepatocytes	Tat
+Hepatocytes	Prrg4
+Hepatocytes	Sult1a1
+Hepatocytes	Apoh
+Hepatocytes	Ctnnb1
+Hepatocytes	Abcc3
+Hepatocytes	Fgb
+Hepatocytes	Aqp3
+Hepatocytes	Plscr1
+Hepatocytes	Fga
+Hepatocytes	Apob
+Hepatocytes	Ang
+Hepatocytes	Anxa13
+Hepatocytes	Sat2
+Hepatocytes	Sfrp5
+Hepatocytes	A1cf
+Hepatocytes	Apoa1
+Hepatocytes	Bnip3
+Hepatocytes	Fgl1
+Hepatocytes	Pah
+Hepatocytes	Serpina6
+Hepatocytes	Apoa2
+Hepatocytes	Azgp1
+Hepatocytes	Apoc3
+Hepatocytes	Defb1
+Hepatocytes	Tm4sf4
+Hepatocytes	Gc
+Hepatocytes	Ambp
+Hepatocytes	Orm1
+Hepatocytes	Serpina1c
+Hepatocytes	Gulo
+Hepatocytes	Cyp2f2
+Hepatocytes	Hal
+Hepatocytes	Ass1
+Hepatocytes	Hmgcs1
+Hepatocytes	Acss2
+Hepatocytes	Tm7sf2
+Hepatocytes	Sec16b
+Hepatocytes	Slbp
+Hepatocytes	Rnd3
+Hepatocytes	Bche
+Hepatocytes	Ghr
+Hepatocytes	Aldh6a1
+Hepatocytes	Masp2
+Hepatocytes	Hamp
+Hepatocytes	Acly
+Hepatocytes	Asl
+Hepatocytes	Mup3
+Hepatocytes	Tmem97
+Hepatocytes	Cp
+Hepatocytes	Acat2
+Hepatocytes	Tm4sf5
+Hepatocytes	Msmo1
+Hepatocytes	Lepr
+Hepatocytes	Rcan1
+Hepatocytes	Ar
+Hepatocytes	Plin1
+Hepatocytes	Rpp25l
+Hepatocytes	Hsd11b1
+Hepatocytes	Apom
+Hepatocytes	Tkfc
+Hepatocytes	G0s2
+Hepatocytes	Pon3
+Hepatocytes	Ttc36
+Hepatocytes	Golt1a
+Hepatocytes	Fst
+Hepatocytes	Mcc
+Hepatocytes	Aqp9
+Hepatocytes	Gsta2
+Hepatocytes	Nnt
+Hepatocytes	Saa4
+Hepatocytes	Mrps18c
+Hepatocytes	Ociad1
+Hepatocytes	Apoa5
+Hepatocytes	Entpd5
+Hepatocytes	C4b
+Hepatocytes	Eid2
+Hepatocytes	Atic
+Hepatocytes	Serpinh1
+Hepatocytes	Samd5
+Hepatocytes	Grb14
+Hepatocytes	Abcd3
+Hepatocytes	Rhob
+Hepatocytes	Epb41l4b
+Hepatocytes	Gpat4
+Hepatocytes	Sdc2
+Hepatocytes	Phlda1
+Hepatocytes	Wtap
+Hepatocytes	Acadm
+Hepatocytes	Acaa1b
+Hepatocytes	Akr1c6
+Hepatocytes	Aldob
+Hepatocytes	Apoc1
+Hepatocytes	Apoc4
+Hepatocytes	Bhmt
+Hepatocytes	Car3
+Hepatocytes	Cdo1
+Hepatocytes	Fabp1
+Hepatocytes	Gnmt
+Hepatocytes	Gsta3
+Hepatocytes	Gstm1
+Hepatocytes	Hpx
+Hepatocytes	Mgst1
+Hepatocytes	Mup20
+Hepatocytes	Phyh
+Hepatocytes	Rbp4
+Hepatocytes	Rgn
+Hepatocytes	Scd1
+Hepatocytes	Scp2
+Hepatocytes	Serpina1a
+Hepatocytes	Serpina1e
+Hepatocytes	Wfdc21
+Hepatocytes	Mlxipl
+Hepatocytes	Atf5
+Hepatocytes	Nr1h4
+Hepatocytes	Rxra
+Hepatocytes	Nr1h3
+Hepatocytes	Cebpb
+Hepatocytes	Gata6
+Hepatocytes	Nr2f2
+Hepatocytes	Nr2f1
+Hepatocytes	Nr5a2
+Hepatocytes	Nr1i2
+Hepatocytes	Nr0b2
+Hepatocytes	Klf15
+Hepatocytes	Hnf1a
+Hepatocytes	Ppard
+Hepatocytes	Pparg
+Hepatocytes	Nr1d1
+Hepatocytes	Nr1d2
+Hepatocytes	Rora
+Hepatocytes	Rorb
+Hepatocytes	Rorc
+Hepatocytes	Nr1h5
+Hepatocytes	Nr1h2
+Hepatocytes	Rxrb
+Hepatocytes	Rxrg
+Hepatocytes	Nr3c1
+Hepatocytes	Ppargc1a
+Hepatocytes	Ncoa1
+Hepatocytes	Crebbp
+Hepatocytes	Nr5a1
+Hepatocytes	Igf1
+Hepatocytes	Igf2
+Hepatocytes	Igfbp3
+Hepatocytes	Cyp3a11
+Hepatocytes	Cyp39a1
+Hepatocytes	Cyp19a1
+Hepatocytes	Cyp3a13
+Hepatocytes	Cyp2d10
+Hepatocytes	Cyp2d26
+Hepatocytes	Ugt1a2
+Hepatocytes	Ugt2b36
+Hepatocytes	Ugt2a1
+Hepatocytes	Cpt1a
+Hepatocytes	Slc1a2
+Hepatocytes	Rrm2
+Hepatocytes	Pfkfb2
+Hepatocytes	Ihh
+Hepatocytes	Lect2
+Hepatocytes	Apc
+Hepatocytes	Acot1
+Hepatocytes	Fgf21
+Hepatocytes	Hnf4a
+Hepatocytes	Glul
+Hepatocytes	Serpina16
+Kupffer and dendritic cells	Clec4f
+Kupffer and dendritic cells	Cd5l
+Kupffer and dendritic cells	Slc40a1
+Kupffer and dendritic cells	H2-Aa
+Kupffer and dendritic cells	H2-Eb1
+Kupffer and dendritic cells	H2-Ab1
+Kupffer and dendritic cells	Tyrobp
+Kupffer and dendritic cells	Pld4
+Kupffer and dendritic cells	Cd74
+Kupffer and dendritic cells	Siglech
+Kupffer and dendritic cells	Cd209a
+Kupffer and dendritic cells	Ckb
+Kupffer and dendritic cells	Clec10a
+Kupffer and dendritic cells	H2-DMa
+Kupffer and dendritic cells	H2-DMb1
+Kupffer and dendritic cells	H2afy
+Kupffer and dendritic cells	Ifi30
+Kupffer and dendritic cells	Plbd1
+Kupffer and dendritic cells	Selplg
+Kupffer and dendritic cells	Cd80
+Kupffer and dendritic cells	Cd86
+Kupffer and dendritic cells	Sepp1
+Kupffer and dendritic cells	Cd163
+Kupffer and dendritic cells	Aif1
+Kupffer and dendritic cells	Itgax
+Kupffer and dendritic cells	Itgae
+Kupffer and dendritic cells	Itgam
+Kupffer and dendritic cells	Cd34
+Kupffer and dendritic cells	Adam19
+Kupffer and dendritic cells	Ap1s3
+Kupffer and dendritic cells	Btla
+Kupffer and dendritic cells	lt3
+Kupffer and dendritic cells	Sept6
+Kupffer and dendritic cells	Slamf7
+Kupffer and dendritic cells	Anpep
+Kupffer and dendritic cells	Bri3bp
+Kupffer and dendritic cells	Cbfa2t3
+Kupffer and dendritic cells	Dpp4
+Kupffer and dendritic cells	Fgl2
+Kupffer and dendritic cells	Haao
+Kupffer and dendritic cells	Jak2
+Kupffer and dendritic cells	Pstpip1
+Kupffer and dendritic cells	Runx3
+Kupffer and dendritic cells	Tbc1d8
+Kupffer and dendritic cells	Adgre1
+Kupffer and dendritic cells	Adgre4
+Kupffer and dendritic cells	Ccl6
+Kupffer and dendritic cells	Ccr5
+Kupffer and dendritic cells	Cd14
+Kupffer and dendritic cells	Cd163
+Kupffer and dendritic cells	Cd68
+Kupffer and dendritic cells	Cd86
+Kupffer and dendritic cells	Cdh1
+Kupffer and dendritic cells	Cd74
+Kupffer and dendritic cells	Cfp
+Kupffer and dendritic cells	Chit1
+Kupffer and dendritic cells	Clec4e
+Kupffer and dendritic cells	Creg1
+Kupffer and dendritic cells	Csf1r
+Kupffer and dendritic cells	Fcer1g
+Kupffer and dendritic cells	Itgam
+Kupffer and dendritic cells	Lgals3
+Kupffer and dendritic cells	Lpl
+Kupffer and dendritic cells	Lipa
+Kupffer and dendritic cells	Lyz2
+Kupffer and dendritic cells	Marco
+Kupffer and dendritic cells	Mnda
+Kupffer and dendritic cells	Mpeg1
+Kupffer and dendritic cells	Ms4a6c
+Kupffer and dendritic cells	Msr1
+Kupffer and dendritic cells	Pltp
+Kupffer and dendritic cells	Prok2
+Kupffer and dendritic cells	Sat1
+Kupffer and dendritic cells	Sdc3
+Kupffer and dendritic cells	Siglec1
+Kupffer and dendritic cells	Slc11a1
+Kupffer and dendritic cells	Slc31a2
+Kupffer and dendritic cells	Slc15a3
+Kupffer and dendritic cells	Timd4
+Kupffer and dendritic cells	Tlr4
+Kupffer and dendritic cells	Trem2
+Kupffer and dendritic cells	Ttyh3
+Kupffer and dendritic cells	Vcam1
+Kupffer and dendritic cells	Vsig4
+Kupffer and dendritic cells	Wfdc17
+Kupffer and dendritic cells	H2-DMb2
+Kupffer and dendritic cells	H2-Oa
+Kupffer and dendritic cells	H2-Ob
+Kupffer and dendritic cells	Mndal
+Kupffer and dendritic cells	Mrc1
+Plasma B-cells	Eaf2
+Plasma B-cells	Cntnap2
+Stellate cells	Reln
+Stellate cells	Ecm1
+Stellate cells	Colec11
+T-cells	Bcl2
+T-cells	Skap1
+T-cells	Ccr5
+T-cells	Cd28
+T-cells	Cd52
+T-cells	Ctsw
+T-cells	Cux1
+T-cells	Cxcr4
+T-cells	Fam46c
+T-cells	Fcer2a
+T-cells	Foxp1
+T-cells	Gata3
+T-cells	Gimap3
+T-cells	Gimap7
+T-cells	Glipr1
+T-cells	Gzmb
+T-cells	H13
+T-cells	Ifngr1
+T-cells	Ifnar2
+T-cells	Ifnar1
+T-cells	Il21r
+T-cells	Il2rb
+T-cells	Il7r
+T-cells	Itgal
+T-cells	Irf8
+T-cells	Lat
+T-cells	Lef1
+T-cells	Lck
+T-cells	Ltb
+T-cells	Ly6d
+T-cells	Mx1
+T-cells	Plac8
+T-cells	Pou2f2
+T-cells	Pou6f1
+T-cells	Ptpn22
+T-cells	Rora
+T-cells	Sec11c
+T-cells	Sec61b
+T-cells	Sell
+T-cells	Slpi
+T-cells	Tbx21
+T-cells	Trbc2
+T-cells	Tspan13
+T-cells	Txk
+T-cells	Txndc11
+T-cells	Txndc5
+T-cells	Xcl1
+T-cells	Zbtb7b
